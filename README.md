@@ -1,11 +1,11 @@
 # Patient Data Management System
 
-In this assignment, I developed a comprehensive patient data management system to handle and analyze patient information efficiently. It is structured into two main parts, focusing on data manipulation and creating a user-friendly interface for accessing patient details.
+In this assignment, I developed a patient data management system to handle and analyze patient information. It is structured into two main parts, focusing on data manipulation and creating a user-friendly interface for accessing patient details.
 
 
 ## Part 1:
 
-In the first part, I extended the functionality of a Python dictionary named `patients`, which contains detailed information about several patients. Each patient is represented by a unique patient ID (e.g., 'P12345') and their details are stored as nested dictionaries.
+In the first part, I extended the functionality of a Python dictionary named `patients`, which contains detailed information about some patients. Each patient is represented by a unique patient ID (e.g., 'P12345') and their details are stored as nested dictionaries.
 
 
 ## Part 2:
